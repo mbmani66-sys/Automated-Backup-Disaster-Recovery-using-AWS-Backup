@@ -112,3 +112,13 @@ The following screenshot shows the CloudFormation stacks successfully deployed f
 <p align="center">
   <img src="images/stacks.jpg" alt="CloudFormation Stacks" width="900">
 </p>
+
+---
+
+# Daily Backup Plan
+
+The following screenshot shows the AWS Backup Plan configured for automated daily backups and disaster recovery.
+
+<p align="center">
+  <img src="images/Dailybackup.jpg" alt="AWS Daily Backup Plan" width="900">
+</p>
