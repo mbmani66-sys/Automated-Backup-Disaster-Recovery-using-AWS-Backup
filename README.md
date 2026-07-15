@@ -102,3 +102,13 @@ The following architecture illustrates the automated backup and disaster recover
 <p align="center">
   <img src="images/Architecture.jpg" alt="AWS Backup Architecture Diagram" width="900">
 </p>
+
+---
+
+# CloudFormation Stacks
+
+The following screenshot shows the CloudFormation stacks successfully deployed for this project.
+
+<p align="center">
+  <img src="images/stacks.jpg" alt="CloudFormation Stacks" width="900">
+</p>
